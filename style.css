@@ -156,15 +156,16 @@ a{text-decoration: none;}
 .steps-button{padding: 50px 0;}
 .steps-button a{padding: 25px 70px; background: linear-gradient(89.92deg, #16A665 0.03%, #00F79E 106.53%); color: #fff; font-family: 'Exo', sans-serif; font-weight: 400; font-size: 13px; text-transform: uppercase; letter-spacing: 1px; box-shadow: 0px 4px 44px rgba(0, 247, 158, 0.53);}
 
-.partners-and-others{background: #102020; padding: 150px 0 75px; margin-top: -71px; background-image: url('uploads/partner-bg.png'); background-position: center; background-repeat: no-repeat; background-size: 100% 100%;}
+.partners-and-others{background: #102020; padding: 150px 0 75px; margin-top: -71px; background-image: url('uploads/partner-bg.webp'); background-position: center; background-repeat: no-repeat; background-size: 100% 100%;}
 .partners-heading{padding-bottom: 50px;}
 .partners-heading h1{color: #fff; font-family: 'Exo', sans-serif; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;}
 .partners-heading h2{font-size: 2.5rem; color: #fff; font-family: 'Exo', sans-serif; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;}
 .upper-grid{background: rgba(22, 166, 101, 0.25); border: 1px solid #eee; padding: 20px;}
 .upper-grid h4{color: #00F69E; font-family: 'Exo', sans-serif; font-weight: 700; letter-spacing: 1px; padding-bottom: 20px;}
 .upper-grid p{color: #fff; font-family: 'Exo', sans-serif; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; font-size: 19px; padding-top: 20px;}
+.upper-grid img{ height: 200px; }
 .single-partners-btn a{display: block; width: 100%; font-family: 'Exo', sans-serif; background: linear-gradient(89.92deg, #FF7300 0.03%, #16A665 106.53%); font-size: 13px; padding: 20px 5px; color: #fff; text-transform: uppercase; font-weight: 600; letter-spacing: 1px;}
-.mt-70{margin-top: 70px;}
+.mt-70{margin-top: 70px; }
 .mt-140{margin-top: 140px;}
 .mt-210{margin-top: 210px;}
 .partners-relative{position: relative;}
@@ -177,7 +178,6 @@ a{text-decoration: none;}
 .upper-layer-after-partners{padding: 8px; border: 2px solid #fff;}
 .inner-layer-after-partners{position: relative; overflow: hidden; text-align: center; background: rgba(22, 166, 101, 0.25);}
 /*.inner-layer-after-partners iframe{border:2px solid #fff; padding: 8px;}*/
-.video-icons-show{position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);}
 .upper-layer-after-partners img {transition: all 2s;}
 .upper-layer-after-partners:hover img {transform: scale(1.2);}
 .runner-abs{position: absolute; top: -5%; left: 0;}
