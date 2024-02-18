@@ -3,11 +3,10 @@ h1,h2,h3,h4,h5,h6{margin: 0; padding: 0;}
 p{margin: 0; padding: 0;}
 a{text-decoration: none;}
 section#home {
-    margin-top: 100px;
+    margin-top: 105px;
 }
 @media only screen and (max-width: 480px)
 {
-  .navbar{top: 63px!important;}
   .navbar-brand img{height: 30px;}
   .navbar-toggler-icon{filter: invert(1);}
   .navbar-nav{background: #081112;}
@@ -99,10 +98,7 @@ section#home {
     color:#fff;
 }
 
-.left-side-ab ul{margin: 0; padding: 0; list-style: none; display: inline-block; }
-.left-side-ab ul li{display: inline-block; margin: 0 0 0 5px;}
-.left-side-ab ul li a{color: #fff; font-size: 20px;}
-.right-side-ab a{padding: 10px 25px; color: #fff; background: linear-gradient(89.92deg, #FF7300 0.03%, #16A665 106.53%); font-family: 'Exo', sans-serif; font-size: 15px; text-transform: uppercase; letter-spacing: 1px;}
+
 
 .navbar{    position: fixed;
     top: 0px;
