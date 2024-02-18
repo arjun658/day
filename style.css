@@ -3,7 +3,7 @@ h1,h2,h3,h4,h5,h6{margin: 0; padding: 0;}
 p{margin: 0; padding: 0;}
 a{text-decoration: none;}
 section#home {
-    margin-top: 100px;
+    margin-top: 90px;
 }
 @media only screen and (max-width: 480px)
 {
@@ -166,7 +166,7 @@ section#home {
 .upper-grid{background: rgba(22, 166, 101, 0.25); border: 1px solid #eee; padding: 20px;}
 .upper-grid h4{color: #00F69E; font-family: 'Exo', sans-serif; font-weight: 700; letter-spacing: 1px; padding-bottom: 20px;}
 .upper-grid p{color: #fff; font-family: 'Exo', sans-serif; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; font-size: 19px; padding-top: 20px;}
-.upper-grid img{ height: 200px; }
+
 .single-partners-btn a{display: block; width: 100%; font-family: 'Exo', sans-serif; background: linear-gradient(89.92deg, #FF7300 0.03%, #16A665 106.53%); font-size: 13px; padding: 20px 5px; color: #fff; text-transform: uppercase; font-weight: 600; letter-spacing: 1px;}
 .mt-70{margin-top: 70px; }
 .mt-140{margin-top: 140px;}
